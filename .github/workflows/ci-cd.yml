@@ -24,7 +24,10 @@ jobs:
  
       # dotnet is already installed from the previous step, so we can just run dotnet commands
       - name: Restore dependencies 📦
-        run: dotnet restore API_Test
+        run: dotnet restore "API_Test"
  
       - name: Build App 🏗
-        run: dotnet build -c Release --no-restore API_Test/CI-CD API.sln
+        run: dotnet build -c Release --no-restore "API_Test/CI-CD API.sln"
+
+      - name: Publish App
+        run: dotnet publish -c Release -o ./out "API_Test/CI-CD API.sln"
