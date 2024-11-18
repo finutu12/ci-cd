@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "J3UXhSf/IeCKY6Q94BZvMcIMyWHoIFp+hBkwYW85Y23qKy2En66ANBIsPvHCgp8IKE01Ozdre8bIzH+k1Sig+A==",
+  "dgSpecHash": "3Fk7vZyboQF6GPdtM76fiOjRmgCsyrLrMjuD1ZQ7Q5Af1PfJTbLcuLPTTBcQ1Z9MghGGM6+NRKAcdrWNybolYQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Adina\\Documents\\HTL\\5AHINF\\POS\\CI-CD API\\CI-CD API.csproj",
+  "projectFilePath": "C:\\Users\\Adina\\Documents\\GitHub\\ci-cd\\CI-CD API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Adina\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
-    "C:\\Users\\Adina\\.nuget\\packages\\microsoft.openapi\\1.6.22\\microsoft.openapi.1.6.22.nupkg.sha512",
-    "C:\\Users\\Adina\\.nuget\\packages\\swashbuckle.aspnetcore\\7.0.0\\swashbuckle.aspnetcore.7.0.0.nupkg.sha512",
-    "C:\\Users\\Adina\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\7.0.0\\swashbuckle.aspnetcore.swagger.7.0.0.nupkg.sha512",
-    "C:\\Users\\Adina\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\7.0.0\\swashbuckle.aspnetcore.swaggergen.7.0.0.nupkg.sha512",
-    "C:\\Users\\Adina\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\7.0.0\\swashbuckle.aspnetcore.swaggerui.7.0.0.nupkg.sha512"
+    "C:\\Users\\Adina\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Adina\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Adina\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Adina\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Adina\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
   ],
   "logs": []
 }

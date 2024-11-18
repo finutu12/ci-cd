@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Adina\\Documents\\HTL\\5AHINF\\POS\\CI-CD API\\CI-CD API.csproj": {}
+    "C:\\Users\\Adina\\Documents\\GitHub\\ci-cd\\CI-CD API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Adina\\Documents\\HTL\\5AHINF\\POS\\CI-CD API\\CI-CD API.csproj": {
+    "C:\\Users\\Adina\\Documents\\GitHub\\ci-cd\\CI-CD API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Adina\\Documents\\HTL\\5AHINF\\POS\\CI-CD API\\CI-CD API.csproj",
+        "projectUniqueName": "C:\\Users\\Adina\\Documents\\GitHub\\ci-cd\\CI-CD API.csproj",
         "projectName": "CI-CD API",
-        "projectPath": "C:\\Users\\Adina\\Documents\\HTL\\5AHINF\\POS\\CI-CD API\\CI-CD API.csproj",
+        "projectPath": "C:\\Users\\Adina\\Documents\\GitHub\\ci-cd\\CI-CD API.csproj",
         "packagesPath": "C:\\Users\\Adina\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Adina\\Documents\\HTL\\5AHINF\\POS\\CI-CD API\\obj\\",
+        "outputPath": "C:\\Users\\Adina\\Documents\\GitHub\\ci-cd\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Adina\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -42,7 +42,7 @@
           "dependencies": {
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[7.0.0, )"
+              "version": "[6.4.0, )"
             }
           },
           "imports": [
