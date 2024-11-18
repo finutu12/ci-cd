@@ -24,7 +24,7 @@ jobs:
  
       # dotnet is already installed from the previous step, so we can just run dotnet commands
       - name: Restore dependencies 📦
-        run: dotnet restore CI-CD
+        run: dotnet restore ci-cd
  
       - name: Build App 🏗
-        run: dotnet build -c Release --no-restore CI-CD/CI-CD API.sln
+        run: dotnet build -c Release --no-restore ci-cd/CI-CD API.sln
