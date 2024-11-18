@@ -27,4 +27,4 @@ jobs:
         run: dotnet restore CI-CD
  
       - name: Build App 🏗
-        run: dotnet build -c Release --no-restore CI-CD API.sln
+        run: dotnet build -c Release --no-restore CI-CD/CI-CD API.sln
