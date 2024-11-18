@@ -31,3 +31,10 @@ jobs:
 
       - name: Publish App
         run: dotnet publish -c Release -o ./out "API_Test/CI-CD API.sln"
+
+      - name: Deploy to Azure Web Apps
+        uses: azure/webapps-deploy@v2
+        with:
+          app-name: Wetter123
+          publish-profile: ${{ secrets.AZURE_THE_DARK_SECRET_OF_THE_CATHOLIC_CHURCH }}
+          package: ./out
