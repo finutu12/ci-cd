@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dT+sTvsWgIFVPNq8T2JWWIXPhjezbmOe+xjEAWPT4F8=",
+  "Source": "CI-CD API",
+  "BasePath": "_content/CI-CD API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

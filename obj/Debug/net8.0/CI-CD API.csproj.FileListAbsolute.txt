@@ -1,0 +1,32 @@
+C:\Users\Adina\Documents\HTL\5AHINF\POS\CI-CD API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Adina\Documents\HTL\5AHINF\POS\CI-CD API\bin\Debug\net8.0\appsettings.json
+C:\Users\Adina\Documents\HTL\5AHINF\POS\CI-CD API\bin\Debug\net8.0\CI-CD API.exe
+C:\Users\Adina\Documents\HTL\5AHINF\POS\CI-CD API\bin\Debug\net8.0\CI-CD API.deps.json
+C:\Users\Adina\Documents\HTL\5AHINF\POS\CI-CD API\bin\Debug\net8.0\CI-CD API.runtimeconfig.json
+C:\Users\Adina\Documents\HTL\5AHINF\POS\CI-CD API\bin\Debug\net8.0\CI-CD API.dll
+C:\Users\Adina\Documents\HTL\5AHINF\POS\CI-CD API\bin\Debug\net8.0\CI-CD API.pdb
+C:\Users\Adina\Documents\HTL\5AHINF\POS\CI-CD API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Adina\Documents\HTL\5AHINF\POS\CI-CD API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Adina\Documents\HTL\5AHINF\POS\CI-CD API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Adina\Documents\HTL\5AHINF\POS\CI-CD API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Adina\Documents\HTL\5AHINF\POS\CI-CD API\obj\Debug\net8.0\CI-CD API.csproj.AssemblyReference.cache
+C:\Users\Adina\Documents\HTL\5AHINF\POS\CI-CD API\obj\Debug\net8.0\CI-CD API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adina\Documents\HTL\5AHINF\POS\CI-CD API\obj\Debug\net8.0\CI-CD API.AssemblyInfoInputs.cache
+C:\Users\Adina\Documents\HTL\5AHINF\POS\CI-CD API\obj\Debug\net8.0\CI-CD API.AssemblyInfo.cs
+C:\Users\Adina\Documents\HTL\5AHINF\POS\CI-CD API\obj\Debug\net8.0\CI-CD API.csproj.CoreCompileInputs.cache
+C:\Users\Adina\Documents\HTL\5AHINF\POS\CI-CD API\obj\Debug\net8.0\CI-CD API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Adina\Documents\HTL\5AHINF\POS\CI-CD API\obj\Debug\net8.0\CI-CD API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Adina\Documents\HTL\5AHINF\POS\CI-CD API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Adina\Documents\HTL\5AHINF\POS\CI-CD API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Adina\Documents\HTL\5AHINF\POS\CI-CD API\obj\Debug\net8.0\staticwebassets\msbuild.CI-CD API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Adina\Documents\HTL\5AHINF\POS\CI-CD API\obj\Debug\net8.0\staticwebassets\msbuild.build.CI-CD API.props
+C:\Users\Adina\Documents\HTL\5AHINF\POS\CI-CD API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CI-CD API.props
+C:\Users\Adina\Documents\HTL\5AHINF\POS\CI-CD API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CI-CD API.props
+C:\Users\Adina\Documents\HTL\5AHINF\POS\CI-CD API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Adina\Documents\HTL\5AHINF\POS\CI-CD API\obj\Debug\net8.0\scopedcss\bundle\CI-CD API.styles.css
+C:\Users\Adina\Documents\HTL\5AHINF\POS\CI-CD API\obj\Debug\net8.0\CI-CD API.csproj.CopyComplete
+C:\Users\Adina\Documents\HTL\5AHINF\POS\CI-CD API\obj\Debug\net8.0\CI-CD API.dll
+C:\Users\Adina\Documents\HTL\5AHINF\POS\CI-CD API\obj\Debug\net8.0\refint\CI-CD API.dll
+C:\Users\Adina\Documents\HTL\5AHINF\POS\CI-CD API\obj\Debug\net8.0\CI-CD API.pdb
+C:\Users\Adina\Documents\HTL\5AHINF\POS\CI-CD API\obj\Debug\net8.0\CI-CD API.genruntimeconfig.cache
+C:\Users\Adina\Documents\HTL\5AHINF\POS\CI-CD API\obj\Debug\net8.0\ref\CI-CD API.dll
